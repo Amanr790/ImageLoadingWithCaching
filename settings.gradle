@@ -1,0 +1,3 @@
+include ':imageloader'
+rootProject.name='PicLoad'
+include ':app'
